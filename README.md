@@ -1,2 +1,2 @@
 # stratedy-php
-Strategys in PHP
+Just training some Strategys in PHP
